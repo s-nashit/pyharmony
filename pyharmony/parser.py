@@ -1,5 +1,3 @@
-# pyharmony/parser.py
-
 import ast
 import json
 from pathlib import Path
