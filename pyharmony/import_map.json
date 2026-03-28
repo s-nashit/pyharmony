@@ -1,0 +1,11 @@
+{
+  "cv2": "opencv-python",
+  "PIL": "Pillow",
+  "sklearn": "scikit-learn",
+  "bs4": "beautifulsoup4",
+  "yaml": "PyYAML",
+  "Crypto": "pycryptodome",
+  "dateutil": "python-dateutil",
+  "fitz": "PyMuPDF",
+  "sns": "seaborn"
+}
