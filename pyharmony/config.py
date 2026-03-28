@@ -1,5 +1,3 @@
-# pyharmony/config.py
-
 from pathlib import Path
 import json
 from typing import Dict
