@@ -1,5 +1,3 @@
-# pyharmony/env.py
-
 import os
 import venv
 from pathlib import Path
