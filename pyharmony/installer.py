@@ -1,5 +1,3 @@
-# pyharmony/installer.py
-
 import subprocess
 from typing import List, Set, Tuple
 
