@@ -1,5 +1,3 @@
-# pyharmony/freeze.py
-
 from pathlib import Path
 from pyharmony.installer import pip_freeze
 
