@@ -1,5 +1,3 @@
-# pyharmony/mapper.py
-
 from typing import Iterable, List, Dict
 from pyharmony.utils import unique_sorted
 
