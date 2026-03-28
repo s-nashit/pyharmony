@@ -1,5 +1,3 @@
-# pyharmony/utils.py
-
 from pathlib import Path
 from typing import Iterable, List
 
