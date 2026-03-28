@@ -1,5 +1,3 @@
-# pyharmony/localmods.py
-
 from pathlib import Path
 from typing import Set
 from pyharmony.scanner import should_skip
