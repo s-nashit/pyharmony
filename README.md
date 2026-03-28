@@ -22,6 +22,36 @@ PyHarmony is an open-source CLI tool that scans a Python project, detects third-
 
 ---
 
+Once published
+
+```bash
+pip install pyharmony
+```
+
+## Usage
+
+From your project directory:
+
+```bash
+pyharmony scan .
+pyharmony install .
+pyharmony doctor .
+pyharmony freeze .
+pyharmony explain .
+```
+
+for notebooks;
+
+```bash
+pyharmony scan . --notebooks
+```
+
+```bash
+pyharmony install .
+pyharmony install . --dry-run
+pyharmony install . --notebooks
+```
+
 ## 🚀 Installation
 
 Clone the repository and install in editable mode:
