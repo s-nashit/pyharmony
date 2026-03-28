@@ -1,5 +1,3 @@
-# pyharmony/stdlib.py
-
 import sys
 
 try:
