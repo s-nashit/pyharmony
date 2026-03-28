@@ -1,5 +1,3 @@
-# pyharmony/cli.py
-
 import typer
 from typing import Set
 
